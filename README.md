@@ -1,6 +1,7 @@
 # php_upload_resize_image
 Upload and resize image PHP
 
+<h2>Note: !!!</h2>
 <h2>Enable GD</h2>
 <ol>
 
