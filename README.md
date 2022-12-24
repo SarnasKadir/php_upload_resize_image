@@ -1,7 +1,7 @@
 # php_upload_resize_image
 Upload and resize image PHP
 
-Enable GD
+Enable GD<br>
 open XAMPP control panel
 click Apache config select PHP(php.ini)
 ctrl + F , so search for gd
